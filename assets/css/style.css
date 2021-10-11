@@ -128,6 +128,10 @@ body{
 	text-align: center;
 	padding-top: 20px;
 }
+.ticket-info{
+	font-size: 13px;
+	padding: 0 10px;
+}
 .ticket-info span{
 	color: #FFBD5B
 }
